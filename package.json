@@ -1,0 +1,16 @@
+{
+  "name": "dev-board-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devyoussefshaaban/dev-board-server.git",
+  "author": "<imdevyoussef@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "client": "cd packages/client && yarn start",
+    "server": "cd packages/server && yarn dev",
+    "dev": "concurrently \"yarn server\" \"yarn client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}

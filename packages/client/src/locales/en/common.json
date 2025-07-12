@@ -1,0 +1,78 @@
+{
+    "auth": {
+        "login": {
+            "head": "Login Form",
+            "enter_all_fields": "Please, eneter all fields to login.",
+            "email": {
+                "label": "Email",
+                "error": {
+                    "required": "Email is required",
+                    "valid": "Please, input a valid email address"
+                }
+            },
+            "password": {
+                "label": "Password",
+                "error": {
+                    "required": "Passsword is required",
+                    "minLength": "Password must contain at least 8 characters"
+                }
+            },
+            "not_have_account": "Not have an account yet?",
+            "login": "Login",
+            "register": "Register"
+        },
+        "register": {
+            "head": "Register Form",
+            "enter_all_fields": "Please, eneter all fields to register.",
+            "username": {
+                "label": "Username",
+                "error": {
+                    "required": "Username is required",
+                    "minLength": "Username must contain at least 3 characters",
+                    "maxLength": "Username must contain 30 characters as max"
+                }
+            },
+            "email": {
+                "label": "Email",
+                "error": {
+                    "required": "Email is required",
+                    "valid": "Please, input a valid email address"
+                }
+            },
+            "password": {
+                "label": "Password",
+                "error": {
+                    "required": "Passsword is required",
+                    "minLength": "Password must contain at least 8 characters"
+                }
+            },
+            "not_have_account": "Not have an account yet?",
+            "login": "Login",
+            "register": "Register"
+        },
+        "logout": {
+            "logout_successfully": "Logged out successfully"
+        }
+    },
+    "header": {
+        "links": {
+            "home": "Home",
+            "about": "About",
+            "dashboard": "Dashboard",
+            "my_account": "My account",
+            "add_account": "Add another account",
+            "settings": "Settings",
+            "logout": "Logout",
+            "lang_btn": "Arabic"
+        }
+    },
+    "footer": {
+        "typography": "All copy rights are reserved"
+    },
+    "general": {
+        "logout": "Logout",
+        "wanna_logout": "Are you sure, you want to logout?",
+        "yes_logout": "Yes, logout",
+        "no": "No, cancel"
+    }
+}

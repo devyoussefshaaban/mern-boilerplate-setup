@@ -1,0 +1,11 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const REGISTER_USER = "REGISTER_USER";
+export const AUTH_FAILED = "AUTH_FAILED";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const GET_ME = "GET_ME";
+
+export const CHANGE_LANGUAGE = "CHANGE_LANGUAGE";
+export const TOGGLE_THEME_MODE = "TOGGLE_THEME_MODE";
+
+export const OPEN_CONFIRM_MODAL = "OPEN_CONFIRM_MODAL";
+export const CLOSE_CONFIRM_MODAL = "CLOSE_CONFIRM_MODAL";
