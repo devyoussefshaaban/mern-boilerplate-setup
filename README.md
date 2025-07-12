@@ -41,4 +41,18 @@ A production-ready full-stack MERN boilerplate featuring **user authentication**
 - Yup schema validation (both client & server side)
 - Displays error messages on frontend
 
-### 🌍 Axio
+### 🌍 Axios Setup
+
+- Centralized axios instance
+- Token auto-included in authenticated requests
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/devyoussefshaaban/mern-auth-boilerplate.git
+cd mern-auth-boilerplate
+```
